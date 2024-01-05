@@ -1,7 +1,8 @@
 repo_name: zaknbur/sparkline-nb
 report_id: 9b868a4f336e417ac04f643d26e785f6
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-23T15:33:21+00:00'
+timestamp: '2024-01-05T08:35:14+00:00'
 requested_by: iiSeymour
 provider: github
 branch: master
@@ -15,6 +16,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/zaknbur/sparkline-nb
   detection_source: Repo Metadata
 - name: HTML
   description: Hypertext Markup Language for creating web pages.
@@ -22,6 +24,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/2270/no-img-open-source.png
+  detection_source_url: https://github.com/zaknbur/sparkline-nb/blob/master/static/index.html
   detection_source: static/index.html
   last_updated_by: Chris Seymour
   last_updated_on: 2015-09-16 09:23:56.000000000 Z
@@ -34,4 +37,5 @@ tools:
   category: Application Utilities
   sub_category: Data Science Notebooks
   image_url: https://img.stackshare.io/service/4190/fGBUdNf__400x400.jpg
+  detection_source_url: https://github.com/zaknbur/sparkline-nb
   detection_source: Repo Metadata
